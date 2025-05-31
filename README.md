@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Liz!
+# 👋 Hey hey, I'm Liz!
 
 🎓 AI Student • 🌊 Ocean & Space Enthusiast • 🌍 Purpose-Driven Technologist
 
@@ -28,7 +28,12 @@ My focus is at the intersection of:
 - 📚 **Language Models** with Zipf’s Law, PMI, and n-gram analysis
 - 🗣️ **Transformer-Based Machine Translation** (EN ↔ DE)
 - 🧬 **Word Embedding Visualisation** (Word2Vec + PCA)
-- *(In Progress: Medical imaging & environmental monitoring projects)*
+
+---
+
+## 🦄 My Own Projects in Progress
+
+- *(Medical imaging & environmental monitoring projects)*
 
 ---
 
