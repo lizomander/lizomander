@@ -9,7 +9,8 @@ My focus is at the intersection of:
 - 🧠 Computer Vision
 - 📡 Biomedical & Environmental Sensors
 - 🌍 Climate Tech & Sustainability
-- 🌌 Astrophysics & Marine Biology (curious dream spaces 🌟)
+- 🌌 Astrophysics & Marine Biology
+- (also puzzles in general 🌟)
 
 ---
 
