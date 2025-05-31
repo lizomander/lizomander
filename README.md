@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Melisa (Zeynep Melisa Akyol)
+# 👋 Hi, I'm Liz!
 
 🎓 AI Student • 🌊 Ocean & Space Enthusiast • 🌍 Purpose-Driven Technologist
 
