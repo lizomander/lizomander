@@ -36,7 +36,7 @@ My focus is at the intersection of:
 
 **Languages**: Python, Java, SQL  
 **Familiar With**: Prolog, HTML/CSS/JS  
-**Learning**: C++, Streamlit, librosa, SimpleITK  
+**Learning**: C++, Streamlit, librosa, SimpleITK, Figma
 
 **ML & AI**: PyTorch, TensorFlow, Scikit-learn, Hugging Face Transformers  
 **Computer Vision**: OpenCV, matplotlib, PIL  
