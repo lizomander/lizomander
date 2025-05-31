@@ -22,7 +22,7 @@ My focus is at the intersection of:
 
 ---
 
-## 🧠 Projects I’ve Built
+## 🧠 Projects I’ve Built Through Assignments From My Classes
 
 - 📊 **Spam Detection** with Naive Bayes and TF-IDF
 - 📚 **Language Models** with Zipf’s Law, PMI, and n-gram analysis
