@@ -2,7 +2,7 @@
 
 🎓 AI Student • 🌊 Ocean & Space Enthusiast • 🌍 Purpose-Driven Technologist
 
-I'm a Computer Science and Artificial Intelligence student at TH Ingolstadt, driven by a deep desire to use technology for the good of people and the planet.
+I'm an Artificial Intelligence student at TH Ingolstadt, driven by a deep desire to use technology for the good of people and the planet.
 
 My focus is at the intersection of:
 - 🤖 Artificial Intelligence
