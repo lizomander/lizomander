@@ -29,20 +29,23 @@ My focus is at the intersection of:
 - 📚 **Language Models** with Zipf’s Law, PMI, and n-gram analysis
 - 🗣️ **Transformer-Based Machine Translation** (EN ↔ DE)
 - 🧬 **Word Embedding Visualisation** (Word2Vec + PCA)
+- *in progress: **CAN-RPi Gateway***
 
 ---
 
 ## 🦄 My Own Projects in Progress
 
 - *(Medical imaging & environmental monitoring projects)*
-
+- *(IoT sensors and many more)*
+- Arduino & Raspberry Pi
+  
 ---
 
 ## 🛠️ Tech Stack
 
 **Languages**: Python, Java, SQL  
-**Familiar With**: Prolog, HTML/CSS/JS  
-**Learning**: C++, Streamlit, librosa, SimpleITK, Figma
+**Familiar With**: Prolog, PHP/HTML/CSS/JS  
+**Learning**: C/C++, C#, Streamlit, librosa, SimpleITK, Figma, Unity, Blender
 
 **ML & AI**: PyTorch, TensorFlow, Scikit-learn, Hugging Face Transformers  
 **Computer Vision**: OpenCV, matplotlib, PIL  
@@ -70,4 +73,4 @@ My focus is at the intersection of:
 ## 📫 Connections
 
 - 🌐 [LinkedIn](https://www.linkedin.com/in/zmelisakyol/)
-- ✉️ zeynepmelisaakyol@gmail.com
+- ✉️ [Mail](mailto:zeynepmelisaakyol@gmail.com)
