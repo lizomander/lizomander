@@ -29,7 +29,7 @@ My focus is at the intersection of:
 - 📚 **Language Models** with Zipf’s Law, PMI, and n-gram analysis
 - 🗣️ **Transformer-Based Machine Translation** (EN ↔ DE)
 - 🧬 **Word Embedding Visualisation** (Word2Vec + PCA)
-- *in progress: **CAN-RPi Gateway***
+- 🛜 **CAN-RPi Gateway** (RPi 5 - Ethernet & CAN gateway)
 
 ---
 
